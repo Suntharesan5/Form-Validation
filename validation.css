@@ -1,0 +1,22 @@
+form{
+    border:1px solid blue;
+    height:600px;
+    width:600px;
+    box-sizing: border-box;
+    padding: 40px;
+    color: blue;
+    font-size: 18px;
+    font-family: 'Franklin Gothic Medium';
+    font-weight: 300;
+}
+
+#formdiv > input
+{
+    height:40px;
+    width: 400px;
+    display: flex;
+    align-items: center;
+    border-color:darkorchid;
+}
+
+
